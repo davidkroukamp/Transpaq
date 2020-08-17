@@ -4,4 +4,4 @@ and executed in memory.
 
 **For educational purposes only**
 
-The copying of the exe via implant helper is no fully working as it doesnt start up during windows booting up..
+The copying of the exe is hardcoded (the name) so implant helper is not fully working and it doesnt start up during windows booting up... These were minor things that I intended to complete when other stuff was working but never got there lol.
