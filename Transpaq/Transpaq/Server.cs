@@ -98,7 +98,7 @@ namespace Transpaq
                 }
                 catch (Exception ex)
                 {
-                    //TODO probably remove in the wild
+                    //TODO probably as you wouldnt want this info leaked
                     var responseMessage = new Response()
                     {
                         Message = ex.Message
